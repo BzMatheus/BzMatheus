@@ -12,8 +12,8 @@ Sou curioso por tecnologia, hardware e backend.
 
 <h2>Entre em contato comigo!</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gabriel-65021325a/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theuzxvi/)
 [![Email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
@@ -28,10 +28,22 @@ Sou curioso por tecnologia, hardware e backend.
 
 ---
 
-<img align="right" width="360" src="LINK_DO_SEU_GIF_AQUI">
+
+<table>
+<tr>
+<td>
+<img src="assets/ezgif.com-gif-to-mp4-converter.gif" width="350">
+</td>
+
+<td>
+<img src="assets/ezgif.com-video-to-gif-converter.gif" width="350">
+</td>
+</tr>
+</table>
 
 <h2>Estatísticas do GitHub</h2>
 
-![BzMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=BzMatheus&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BzMatheus&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BzMatheus&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BzMatheus&layout=compact&theme=tokyonight"/>
+</p>
