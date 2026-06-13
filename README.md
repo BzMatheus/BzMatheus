@@ -3,8 +3,8 @@
 ---
 
 <p>
-Me chamo Matheus Gabriel, estou estudando programação e atualmente foco em Java,
-Linux e desenvolvimento de projetos para meu portfólio.
+Me chamo Matheus, estou estudando programação e atualmente foco em Java,
+com enfase em desenvolvimento de projetos para meu portfólio.
 Sou curioso por tecnologia, hardware e backend.
 </p>
 
